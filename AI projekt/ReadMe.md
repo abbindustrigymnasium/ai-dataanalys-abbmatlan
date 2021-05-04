@@ -24,10 +24,6 @@ I mitt fall använder jag mig av ett "feedforward nural network"
 
 
 ##### Discount Factor
-
-
-&nbsp;
-
 &nbsp;
 
 ## FILER
