@@ -126,6 +126,25 @@ food up, food down
 
 ## PIP install
 
+- ### PyTorch
+    pip3 install torch==1.8.1+cpu torchvision==0.9.1+cpu -f https://download.pytorch.org/whl/torch_stable.html
+
+- ### Pygames
+    pip install pygame
+
+- ### Ipython
+    pip install Ipython
+
+- ### Matplotlib
+    pip install matplotlib
+
+- ### Numpy
+    pip install numpy
+
+- ### Pyplot
+    pip install matplotlib.pyplot
+
+
 
 
 
