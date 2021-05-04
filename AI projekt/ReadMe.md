@@ -41,7 +41,9 @@ Innefattar hur stora ändringar algoritmen ska göra i sitt neurala nätverk und
 
 ##### Bellman Equation
 
-<img>https://miro.medium.com/max/1050/1*FHsbUXsJFg8xt5U2c-6y1A.png</img>
+![myimage-alt-tag](https://miro.medium.com/max/1050/1*FHsbUXsJFg8xt5U2c-6y1A.png)
+
+<!-- <img>https://miro.medium.com/max/1050/1*FHsbUXsJFg8xt5U2c-6y1A.png</img> -->
 
 &nbsp;
 
