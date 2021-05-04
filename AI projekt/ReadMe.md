@@ -19,7 +19,7 @@ Q-Learning är en RL-algorithm som lär sig värdet (value) av datorns agerande 
 .
 
 ##### Deep Q-Learning
-Det här tillvägagångssättet utvidgar RL genom att använda ett "deep neural network" för att förutspå hur den ska agera. 
+Det här tillvägagångssättet utvidgar RL genom att använda ett "deep neural network" för att förutspå hur den ska agera. Denna inlärningstyp innebär också att man ibland väljer ett "random move".
 
 I mitt fall använder jag mig av ett "feedforward nural network" 
 
@@ -31,10 +31,17 @@ I mitt fall använder jag mig av ett "feedforward nural network"
 .
 
 ##### Learning Rate
+Innefattar hur stora ändringar algoritmen ska göra i sitt neurala nätverk under sin träning.
 
 .
 
 ##### Discount Factor
+
+.
+
+##### Bellman Equation
+
+<img>https://miro.medium.com/max/1050/1*FHsbUXsJFg8xt5U2c-6y1A.png</img>
 
 &nbsp;
 
@@ -94,8 +101,6 @@ Skriver ut AI:ns framsteg i en graf.
 - Det nuvarande riktningen den rör sig åt.
 - Hållet maten är åt.
 
-.
-
 #### EX (11 värden):
 [danger straight, danger right, danger left,
 
@@ -106,7 +111,9 @@ food left, food right,
 food up, food down
 ]
 
+.
 
+### 
 
 
 
