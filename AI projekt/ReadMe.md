@@ -30,18 +30,23 @@ I mitt fall använder jag mig av ett "feedforward nural network"
 
 .
 
+#### Bellman Equation
+
+![myimage-alt-tag](https://miro.medium.com/max/1050/1*FHsbUXsJFg8xt5U2c-6y1A.png)
+
+.
+
 ##### Learning Rate
-Innefattar hur stora ändringar algoritmen ska göra i sitt neurala nätverk under sin träning.
+Innefattar hur stora ändringar algoritmen ska göra i sitt neurala nätverk under sin träning. Representeras av α i Bellman ekvationen.
 
 .
 
 ##### Discount Factor
+Innefattar vikten i de framtida belöningar. Representeras av γ i Bellman ekvationen.
 
 .
 
-##### Bellman Equation
 
-![myimage-alt-tag](https://miro.medium.com/max/1050/1*FHsbUXsJFg8xt5U2c-6y1A.png)
 
 <!-- <img>https://miro.medium.com/max/1050/1*FHsbUXsJFg8xt5U2c-6y1A.png</img> -->
 
