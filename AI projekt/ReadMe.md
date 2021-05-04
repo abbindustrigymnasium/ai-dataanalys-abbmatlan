@@ -26,7 +26,13 @@ I mitt fall använder jag mig av ett "feedforward nural network"
 .
 
 
+#### Q-value
+Kvaliteten av ett värde (för vår AI)
+
+.
+
 ##### Q-Tables
+En tabell som innehåller kvaliteten av alla drag som AI:n eventuellt skulle kunna utföra.
 
 .
 
@@ -43,12 +49,6 @@ Innefattar hur stora ändringar algoritmen ska göra i sitt neurala nätverk und
 
 ##### Discount Factor
 Innefattar vikten i de framtida belöningar. Representeras av γ i Bellman ekvationen.
-
-.
-
-
-
-<!-- <img>https://miro.medium.com/max/1050/1*FHsbUXsJFg8xt5U2c-6y1A.png</img> -->
 
 &nbsp;
 
@@ -118,9 +118,14 @@ food left, food right,
 food up, food down
 ]
 
-.
+&nbsp;
 
-### 
+&nbsp;
+
+&nbsp;
+
+## PIP install
+
 
 
 
