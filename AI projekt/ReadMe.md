@@ -72,7 +72,7 @@ Ett standard snake-spel, det är endast lite modifierat för att kunna ta emot v
 
 ### Model
 Motsvarar "deep Q-Learning" och är den delen som förutspår nästa steg med ett feedforward nural network.
-Med 11 perceptroner i input-lagret, ett värde från varje boolen i state och 3 output-lager som ger en lista där i form av [0,0,0], vilket ger riktningen ormen ska röra sig i. 
+Med 11 perceptroner i input-lagret, ett värde från varje boolean i state och 3 output-lager som ger en lista där i form av [0,0,0], vilket ger riktningen ormen ska röra sig i. 
 (Mer information under VIKTIGA VARIABLER, ACTION)
 
 .
@@ -99,7 +99,7 @@ Skriver ut AI:ns framsteg i en graf.
 - rakt          ->      [1,0,0]
 - höger sväng   ->      [0,1,0]
 - vänster sväng ->      [0,0,1]
-- Vi tillåter den inte att svänga bakåt då den dör automatiskt, för att röra sig bakåt måste den kombinera de olika valen.
+- Jag tillåter den inte att svänga bakåt då den dör automatiskt, för att röra sig bakåt måste den kombinera de olika valen.
 
 .
 
