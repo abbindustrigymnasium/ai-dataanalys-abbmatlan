@@ -25,10 +25,14 @@ I mitt fall använder jag mig av ett "feedforward nural network"
 
 ##### Discount Factor
 &nbsp;
+
 &nbsp;
+
 &nbsp;
+
 ## FILER
 &nbsp;
+
 ### Agent
 Sätter ihop game och model samt tränar AI:n genom att köra algoritmen
 &nbsp;
